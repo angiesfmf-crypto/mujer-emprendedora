@@ -1,0 +1,10 @@
+{
+  "name": "Mujer Emprendedora",
+  "short_name": "Mujer Emprendedora",
+  "description": "Plataforma de apoyo digital para emprendimientos rurales de Palmira.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f8fc",
+  "theme_color": "#174a8b",
+  "lang": "es-CO"
+}
